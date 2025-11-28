@@ -73,18 +73,6 @@ class AndroidDeveloper {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![](https://github-readme-stats.vercel.app/api?username=AboEisa&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AboEisa&theme=tokyonight&hide_border=true&layout=compact)
-
-</div>
-
----
-
 ## 💼 Featured Projects
 
 <div align="center">
@@ -137,14 +125,27 @@ class AndroidDeveloper {
 
 ---
 
-## 📫 Get In Touch
+## 🎯 What I Bring to the Table
+
+- 📱 **Modern Android Development** with Kotlin and Jetpack Compose
+- 🏗️ **Clean Architecture** implementation for maintainable codebases
+- 🎨 **UI/UX Focus** with Material Design principles
+- 🔄 **RESTful APIs Integration** using Retrofit and Coroutines
+- 💾 **Local Database Management** with Room and SQLite
+- 🔥 **Firebase Integration** for backend services
+- 🧪 **Version Control** proficiency with Git and GitHub
+
+---
+
+## 📫 Let's Connect
 
 <div align="center">
 
-I'm always interested in connecting with fellow developers and exploring new opportunities!
+**I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.**
 
 📧 **Email:** omarncc00@gmail.com  
-💼 **Open for:** Freelance Projects | Collaborations | Job Opportunities
+💼 **LinkedIn:** [Omar Abdulrahman](https://linkedin.com/in/omar-abdulrahman-249a53282)  
+🤝 **Available for:** Freelance Projects • Collaborations • Full-time Opportunities
 
 </div>
 
@@ -152,13 +153,9 @@ I'm always interested in connecting with fellow developers and exploring new opp
 
 <div align="center">
   
-<img src="https://komarev.com/ghpvc/?username=AboEisa&style=flat-square&color=3DDC84" alt="Profile Views" />
+![Profile Views](https://komarev.com/ghpvc/?username=AboEisa&style=flat-square&color=3DDC84)
 
-</div>
-
-<div align="center">
-  
-*"First, solve the problem. Then, write the code."* – John Johnson
+*"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
 </div>
 
