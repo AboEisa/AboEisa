@@ -167,7 +167,6 @@ class AndroidDeveloper {
 </td>
 <td width="33%">
 <h3 align="center">📝 Zakrni</h3>
-<a href="https://github.com/AboEisa/Zakrni" target="_blank">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=AboEisa&repo=Zakrni&theme=tokyonight&hide_border=true" alt="Zakrni"/>
 <br>
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -175,7 +174,6 @@ class AndroidDeveloper {
 </td>
 <td width="33%">
 <h3 align="center">💬 ChatApp</h3>
-<a href="https://github.com/AboEisa/ChatApp" target="_blank">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=AboEisa&repo=ChatApp&theme=tokyonight&hide_border=true" alt="ChatApp"/>
 <br>
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -186,7 +184,6 @@ class AndroidDeveloper {
 <tr>
 <td width="33%">
 <h3 align="center">🔒 Firebase Auth</h3>
-<a href="https://github.com/AboEisa/FirebaseAuth" target="_blank">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=AboEisa&repo=FirebaseAuth&theme=tokyonight&hide_border=true" alt="Firebase Auth"/>
 <br>
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
