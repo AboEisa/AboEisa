@@ -108,7 +108,7 @@ class AndroidDeveloper {
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 ![Mockito](https://img.shields.io/badge/Mockito-C5D9C8?style=for-the-badge&logo=mockito&logoColor=white)
 ![Espresso](https://img.shields.io/badge/Espresso-4285F4?style=for-the-badge&logo=android&logoColor=white)
-![LeakCanary](https://img.shields.io/badge/LeakCanary-FF6F00?style=for-the-badge&logo=android&logoColor=white)
+
 
 ### Tools & Version Control
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
@@ -117,10 +117,6 @@ class AndroidDeveloper {
 ![ADB](https://img.shields.io/badge/ADB-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Android Debug Bridge](https://img.shields.io/badge/Android%20Debug%20Bridge-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-### Security & Storage
-![Keystore](https://img.shields.io/badge/Keystore-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Encrypted SharedPreferences](https://img.shields.io/badge/Encrypted%20SharedPreferences-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Biometric Authentication](https://img.shields.io/badge/Biometric%20Auth-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 ### Design & UI Tools
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
