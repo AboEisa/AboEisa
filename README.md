@@ -130,89 +130,73 @@ class AndroidDeveloper {
 
 <table>
 <tr>
-<td width="50%">
+<td width="33%">
 <h3 align="center">🏥 Hospital App</h3>
-<div align="center">  
 <a href="https://github.com/AboEisa/HospitalApp" target="_blank">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=AboEisa&repo=HospitalApp&theme=tokyonight&hide_border=true" alt="Hospital App"/>
 <br>
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-</div>
 </td>
-<td width="50%">
+<td width="33%">
 <h3 align="center">🛍️ ShopSphere</h3>
-<div align="center">  
 <a href="https://github.com/AboEisa/ShopSphere" target="_blank">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=AboEisa&repo=ShopSphere&theme=tokyonight&hide_border=true" alt="ShopSphere"/>
 <br>
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-</div>
 </td>
-</tr>
-
-<tr>
-<td width="50%">
+<td width="33%">
 <h3 align="center">🎬 Movie App</h3>
-<div align="center">  
 <a href="https://github.com/AboEisa/MovieApp" target="_blank">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=AboEisa&repo=MovieApp&theme=tokyonight&hide_border=true" alt="Movie App"/>
 <br>
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-</div>
 </td>
-<td width="50%">
+</tr>
+
+<tr>
+<td width="33%">
 <h3 align="center">🛒 E-Commerce</h3>
-<div align="center">  
 <a href="https://github.com/AboEisa/e-Commerce" target="_blank">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=AboEisa&repo=e-Commerce&theme=tokyonight&hide_border=true" alt="E-Commerce"/>
 <br>
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-</div>
 </td>
-</tr>
-
-<tr>
-<td width="50%">
+<td width="33%">
 <h3 align="center">📝 Zakrni</h3>
-<div align="center">  
 <a href="https://github.com/AboEisa/Zakrni" target="_blank">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=AboEisa&repo=Zakrni&theme=tokyonight&hide_border=true" alt="Zakrni"/>
 <br>
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-</div>
 </td>
-<td width="50%">
+<td width="33%">
 <h3 align="center">💬 ChatApp</h3>
-<div align="center">  
 <a href="https://github.com/AboEisa/ChatApp" target="_blank">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=AboEisa&repo=ChatApp&theme=tokyonight&hide_border=true" alt="ChatApp"/>
 <br>
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-</div>
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td width="33%">
 <h3 align="center">🔒 Firebase Auth</h3>
-<div align="center">  
 <a href="https://github.com/AboEisa/FirebaseAuth" target="_blank">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=AboEisa&repo=FirebaseAuth&theme=tokyonight&hide_border=true" alt="Firebase Auth"/>
 <br>
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-</div>
 </td>
-<td width="50%">
+<td width="33%">
+</td>
+<td width="33%">
 </td>
 </tr>
-
 </table>
 
 </div>
