@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3DDC84&center=true&vCenter=true&width=600&lines=Senior+Android+Developer;Kotlin+%26+Jetpack+Compose+Expert;Open+Source+Contributor;Building+Scalable+Mobile+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3DDC84&center=true&vCenter=true&width=600&lines=Android+Developer;Kotlin+%26+Jetpack+Compose;Mobile+App+Development;Building+Modern+Android+Apps" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -7,7 +7,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/omar-abdulrahman-249a53282) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:omarncc00@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/omarabdulrahman__7)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](#)
 
 </div>
 
@@ -15,22 +14,26 @@
 
 ## 👨‍💻 About Me
 ```kotlin
-val seniorAndroidDeveloper = Developer(
-    name = "Omar Abdulrahman",
-    role = "Senior Android Developer",
-    languages = listOf("Kotlin", "Java", "C#"),
-    architecture = listOf("MVVM", "MVI", "Clean Architecture"),
-    currentFocus = "Kotlin Multiplatform & Jetpack Compose",
-    askMeAbout = listOf("Android", "Kotlin", "Mobile Architecture", "UI/UX"),
-    funFact = "I debug faster with coffee ☕"
-)
+class AndroidDeveloper {
+    val name = "Omar Abdulrahman"
+    val role = "Android Developer"
+    val location = "Cairo, Egypt"
+    
+    val languages = listOf("Kotlin", "Java", "C#")
+    val architecture = listOf("MVVM", "Clean Architecture")
+    
+    val currentlyLearning = "Kotlin Multiplatform & Jetpack Compose"
+    val interests = listOf("Android Development", "Mobile UI/UX", "Open Source")
+    
+    fun code() = "Building efficient and user-friendly mobile applications"
+}
 ```
 
-🔭 **Currently Building:** Scalable Android applications with modern architecture patterns  
-🌱 **Learning:** Kotlin Multiplatform (KMP) & Compose Multiplatform  
-🤝 **Open to:** Collaborating on innovative open-source Android projects  
-💡 **Expertise:** Clean Architecture, Jetpack Compose, Performance Optimization  
-⚡ **Philosophy:** Write code that humans can read, machines will follow
+💻 Passionate about creating seamless Android experiences  
+🌱 Currently exploring Kotlin Multiplatform & Compose Multiplatform  
+🤝 Open to collaborating on innovative Android projects  
+💡 Focus on clean code and modern architecture patterns  
+☕ Coffee-driven developer
 
 ---
 
@@ -70,32 +73,15 @@ val seniorAndroidDeveloper = Developer(
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <div align="center">
   
-![](https://github-readme-stats.vercel.app/api?username=AboEisa&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=AboEisa&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
 
-![](https://nirzak-streak-stats.vercel.app/?user=AboEisa&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AboEisa&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AboEisa&theme=tokyonight&hide_border=true&layout=compact)
 
 </div>
-
----
-
-## 🏆 GitHub Trophies
-<div align="center">
-  
-![](https://github-profile-trophy.vercel.app/?username=AboEisa&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-[![Omar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AboEisa&theme=tokyo-night&hide_border=true)](https://github.com/AboEisa)
 
 ---
 
@@ -108,17 +94,18 @@ val seniorAndroidDeveloper = Developer(
 
 </div>
 
+> 💡 **Tip:** Replace `YOUR_REPO_NAME` with your actual repository names to showcase your best work!
+
 ---
 
-## 📫 Let's Connect
+## 📫 Get In Touch
 
 <div align="center">
 
-💼 Open for freelance projects and collaborations  
-📧 Reach me at: **omarncc00@gmail.com**  
-💡 Always interested in innovative Android projects
+I'm always interested in connecting with fellow developers and exploring new opportunities!
 
-[![](https://visitcount.itsvg.in/api?id=AboEisa&icon=0&color=3)](https://visitcount.itsvg.in)
+📧 **Email:** omarncc00@gmail.com  
+💼 **Open for:** Freelance Projects | Collaborations | Job Opportunities
 
 </div>
 
@@ -126,24 +113,13 @@ val seniorAndroidDeveloper = Developer(
 
 <div align="center">
   
-### 💰 Support My Work
-  
-If you find my projects helpful, consider supporting me:
+<img src="https://komarev.com/ghpvc/?username=AboEisa&style=flat-square&color=3DDC84" alt="Profile Views" />
 
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/omarncc00@gmail.com)
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/YOUR_USERNAME)
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AboEisa&style=for-the-badge&color=3DDC84" alt="Profile Views" />
 </div>
 
 <div align="center">
   
-**"Clean code always looks like it was written by someone who cares."** - Robert C. Martin
+*"First, solve the problem. Then, write the code."* – John Johnson
 
 </div>
 
