@@ -170,9 +170,46 @@ class AndroidDeveloper {
 </div>
 </td>
 </tr>
+
+<tr>
+<td width="50%">
+<h3 align="center">📝 Zakrni</h3>
+<div align="center">  
+<a href="https://github.com/AboEisa/Zakrni" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AboEisa&repo=Zakrni&theme=tokyonight&hide_border=true" alt="Zakrni"/>
+</a>
+<p><strong>Kotlin, Firebase, MVVM</strong> - Personal note-taking and reminders application</p>
+</div>
+</td>
+<td width="50%">
+<h3 align="center">💬 ChatApp</h3>
+<div align="center">  
+<a href="https://github.com/AboEisa/ChatApp" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AboEisa&repo=ChatApp&theme=tokyonight&hide_border=true" alt="ChatApp"/>
+</a>
+<p><strong>Kotlin, Firebase, Real-time Messaging</strong> - Modern chat application with real-time updates</p>
+</div>
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+<h3 align="center">🔒 Firebase Auth</h3>
+<div align="center">  
+<a href="https://github.com/AboEisa/FirebaseAuth" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AboEisa&repo=FirebaseAuth&theme=tokyonight&hide_border=true" alt="Firebase Auth"/>
+</a>
+<p><strong>Kotlin, Firebase</strong> - Authentication system for Android apps using Firebase</p>
+</div>
+</td>
+<td width="50%">
+</td>
+</tr>
+
 </table>
 
 </div>
+
 
 ---
 
