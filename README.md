@@ -135,8 +135,9 @@ class AndroidDeveloper {
 <div align="center">  
 <a href="https://github.com/AboEisa/HospitalApp" target="_blank">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=AboEisa&repo=HospitalApp&theme=tokyonight&hide_border=true" alt="Hospital App"/>
+<br>
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<p><strong>Kotlin, MVVM, Firebase</strong> - Healthcare management application with modern Android architecture</p>
 </div>
 </td>
 <td width="50%">
@@ -144,8 +145,9 @@ class AndroidDeveloper {
 <div align="center">  
 <a href="https://github.com/AboEisa/ShopSphere" target="_blank">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=AboEisa&repo=ShopSphere&theme=tokyonight&hide_border=true" alt="ShopSphere"/>
+<br>
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<p><strong>Kotlin, Jetpack Compose</strong> - Modern e-commerce platform with clean UI/UX</p>
 </div>
 </td>
 </tr>
@@ -156,8 +158,9 @@ class AndroidDeveloper {
 <div align="center">  
 <a href="https://github.com/AboEisa/MovieApp" target="_blank">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=AboEisa&repo=MovieApp&theme=tokyonight&hide_border=true" alt="Movie App"/>
+<br>
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<p><strong>Kotlin, Retrofit, TMDB API</strong> - Discover and explore movies with rich details</p>
 </div>
 </td>
 <td width="50%">
@@ -165,8 +168,9 @@ class AndroidDeveloper {
 <div align="center">  
 <a href="https://github.com/AboEisa/e-Commerce" target="_blank">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=AboEisa&repo=e-Commerce&theme=tokyonight&hide_border=true" alt="E-Commerce"/>
+<br>
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<p><strong>Kotlin, Room, Material Design</strong> - Full-featured shopping application</p>
 </div>
 </td>
 </tr>
@@ -177,8 +181,9 @@ class AndroidDeveloper {
 <div align="center">  
 <a href="https://github.com/AboEisa/Zakrni" target="_blank">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=AboEisa&repo=Zakrni&theme=tokyonight&hide_border=true" alt="Zakrni"/>
+<br>
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<p><strong>Kotlin, Firebase, MVVM</strong> - Personal note-taking and reminders application</p>
 </div>
 </td>
 <td width="50%">
@@ -186,8 +191,9 @@ class AndroidDeveloper {
 <div align="center">  
 <a href="https://github.com/AboEisa/ChatApp" target="_blank">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=AboEisa&repo=ChatApp&theme=tokyonight&hide_border=true" alt="ChatApp"/>
+<br>
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<p><strong>Kotlin, Firebase, Real-time Messaging</strong> - Modern chat application with real-time updates</p>
 </div>
 </td>
 </tr>
@@ -198,8 +204,9 @@ class AndroidDeveloper {
 <div align="center">  
 <a href="https://github.com/AboEisa/FirebaseAuth" target="_blank">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=AboEisa&repo=FirebaseAuth&theme=tokyonight&hide_border=true" alt="Firebase Auth"/>
+<br>
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<p><strong>Kotlin, Firebase</strong> - Authentication system for Android apps using Firebase</p>
 </div>
 </td>
 <td width="50%">
