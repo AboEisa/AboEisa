@@ -124,79 +124,133 @@ class AndroidDeveloper {
 
 ---
 
+---
+
 ## 💼 Featured Projects
+
+### 🏥 Hospital Management System
+**[HospitalApp](https://github. com/AboEisa/HospitalApp)** • `Kotlin` `MVVM` `Firebase` `Material Design`
+
+A comprehensive hospital management application for efficient healthcare operations.  Features include appointment scheduling, patient records management, and real-time updates.
+
+**Key Features:**
+- 👥 Multi-role authentication (Doctor, Nurse, Patient)
+- 📅 Appointment scheduling and management
+- 🔔 Real-time notifications using Firebase Cloud Messaging
+- 📊 Patient medical records and history tracking
+
+**Tech Stack:** Kotlin • Firebase • MVVM Architecture • Coroutines • Material Design
+
+---
+
+### 🛍️ ShopSphere - E-Commerce Platform
+**[ShopSphere](https://github. com/AboEisa/ShopSphere)** • `Kotlin` `Jetpack Compose` `Clean Architecture` `RESTful API`
+
+Modern e-commerce Android application with a focus on user experience and performance. Built with Jetpack Compose and following clean architecture principles.
+
+**Key Features:**
+- 🛒 Product catalog with advanced filtering and search
+- 💳 Secure payment integration
+- 📦 Order tracking and history
+- ⭐ Product reviews and ratings system
+- 🔐 JWT-based authentication
+
+**Tech Stack:** Kotlin • Jetpack Compose • Retrofit • Hilt • Room Database • MVVM
+
+---
+
+### 🎬 Movie Discovery App
+**[MovieApp](https://github.com/AboEisa/MovieApp)** • `Kotlin` `TMDB API` `Paging 3` `Material Design`
+
+Discover trending movies and TV shows with detailed information, trailers, and personalized recommendations powered by The Movie Database (TMDB) API.
+
+**Key Features:**
+- 🎥 Browse trending, popular, and upcoming movies
+- 🔍 Advanced search with filters
+- 📱 Responsive UI with smooth animations
+- ⭐ Save favorites locally with Room Database
+- 📄 Pagination for seamless browsing experience
+
+**Tech Stack:** Kotlin • Retrofit • Room • Paging 3 • Glide • Coroutines • Flow
+
+---
+
+### 💬 Real-Time Chat Application
+**[ChatApp](https://github.com/AboEisa/ChatApp)** • `Kotlin` `Firebase Realtime Database` `FCM`
+
+Feature-rich messaging application with real-time communication capabilities, supporting text messages, media sharing, and push notifications.
+
+**Key Features:**
+- 💬 Real-time messaging with Firebase Realtime Database
+- 📸 Image and media sharing
+- 🔔 Push notifications using FCM
+- 👤 User profiles and status updates
+- ✅ Message read receipts and typing indicators
+
+**Tech Stack:** Kotlin • Firebase Realtime Database • FCM • Glide • MVVM
+
+---
+
+### 📝 Zakrni - Note Taking App
+**[Zakrni](https://github.com/AboEisa/Zakrni)** • `Kotlin` `Room` `MVVM` `Material Design`
+
+Elegant and intuitive note-taking application with offline-first architecture. Organize your thoughts with categories, tags, and powerful search capabilities.
+
+**Key Features:**
+- 📝 Create, edit, and organize notes efficiently
+- 🏷️ Categorization with tags and labels
+- 🔍 Full-text search functionality
+- 🌙 Dark mode support
+- 💾 Local storage with Room Database
+
+**Tech Stack:** Kotlin • Room • ViewModel • LiveData • Material Design Components
+
+---
+
+### 🛒 E-Commerce Mobile Solution
+**[e-Commerce](https://github.com/AboEisa/e-Commerce)** • `Kotlin` `REST API` `Firebase`
+
+Full-featured e-commerce application with complete shopping experience including product browsing, cart management, and order processing.
+
+**Key Features:**
+- 📱 Intuitive product browsing interface
+- 🛒 Shopping cart with quantity management
+- 🔐 Secure user authentication
+- 📍 Address management for delivery
+- 💰 Multiple payment options integration
+
+**Tech Stack:** Kotlin • Retrofit • Firebase Auth • MVVM • Coroutines
+
+---
+
+### 🔐 Firebase Authentication Demo
+**[FirebaseAuth](https://github.com/AboEisa/FirebaseAuth)** • `Kotlin` `Firebase Auth` `Biometric`
+
+Comprehensive authentication implementation showcasing various Firebase authentication methods and security best practices.
+
+**Key Features:**
+- 📧 Email/Password authentication
+- 📱 Phone number verification
+- 🔐 Biometric authentication integration
+- 🔄 Password reset functionality
+- 👤 User profile management
+
+**Tech Stack:** Kotlin • Firebase Authentication • BiometricPrompt • Material Design
+
+---
 
 <div align="center">
 
-<table>
-<tr>
-<td width="33%">
-<h3 align="center">🏥 Hospital App</h3>
-<a href="https://github.com/AboEisa/HospitalApp" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AboEisa&repo=HospitalApp&theme=tokyonight&hide_border=true" alt="Hospital App"/>
-<br>
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-</td>
-<td width="33%">
-<h3 align="center">🛍️ ShopSphere</h3>
-<a href="https://github.com/AboEisa/ShopSphere" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AboEisa&repo=ShopSphere&theme=tokyonight&hide_border=true" alt="ShopSphere"/>
-<br>
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-</td>
-<td width="33%">
-<h3 align="center">🎬 Movie App</h3>
-<a href="https://github.com/AboEisa/MovieApp" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AboEisa&repo=MovieApp&theme=tokyonight&hide_border=true" alt="Movie App"/>
-<br>
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-</td>
-</tr>
+### 🚀 More Projects Coming Soon!
 
-<tr>
-<td width="33%">
-<h3 align="center">🛒 E-Commerce</h3>
-<a href="https://github.com/AboEisa/e-Commerce" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AboEisa&repo=e-Commerce&theme=tokyonight&hide_border=true" alt="E-Commerce"/>
-<br>
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-</td>
-<td width="33%">
-<h3 align="center">📝 Zakrni</h3>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AboEisa&repo=Zakrni&theme=tokyonight&hide_border=true" alt="Zakrni"/>
-<br>
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-</td>
-<td width="33%">
-<h3 align="center">💬 ChatApp</h3>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AboEisa&repo=ChatApp&theme=tokyonight&hide_border=true" alt="ChatApp"/>
-<br>
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-</td>
-</tr>
+I'm constantly working on new projects and exploring emerging technologies in Android development.   
+Check out my [GitHub profile](https://github.com/AboEisa) for more repositories and contributions.
 
-<tr>
-<td width="33%">
-<h3 align="center">🔒 Firebase Auth</h3>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AboEisa&repo=FirebaseAuth&theme=tokyonight&hide_border=true" alt="Firebase Auth"/>
-<br>
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-</td>
-<td width="33%">
-</td>
-<td width="33%">
-</td>
-</tr>
-</table>
+[![View All Repositories](https://img.shields.io/badge/View_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AboEisa?tab=repositories)
 
 </div>
+
+---
 
 
 ---
