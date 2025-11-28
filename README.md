@@ -20,7 +20,7 @@ class AndroidDeveloper {
     val location = "Cairo, Egypt"
     
     val languages = listOf("Kotlin", "Java", "C#")
-    val architecture = listOf("MVVM", "Clean Architecture")
+    val architecture = listOf("MVVM", "MVI", "Clean Architecture")
     
     val currentlyLearning = "Kotlin Multiplatform & Jetpack Compose"
     val interests = listOf("Android Development", "Mobile UI/UX", "Open Source")
@@ -57,16 +57,20 @@ class AndroidDeveloper {
 ![LiveData](https://img.shields.io/badge/LiveData-4285F4?style=for-the-badge&logo=android&logoColor=white)
 ![DataStore](https://img.shields.io/badge/DataStore-4285F4?style=for-the-badge&logo=android&logoColor=white)
 ![WorkManager](https://img.shields.io/badge/WorkManager-4285F4?style=for-the-badge&logo=android&logoColor=white)
+![Paging 3](https://img.shields.io/badge/Paging%203-4285F4?style=for-the-badge&logo=android&logoColor=white)
 
 ### Backend & Database
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Room](https://img.shields.io/badge/Room-4285F4?style=for-the-badge&logo=android&logoColor=white)
+![Realm](https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white)
 
 ### Networking & APIs
 ![Retrofit](https://img.shields.io/badge/Retrofit-48B983?style=for-the-badge&logo=square&logoColor=white)
 ![OkHttp](https://img.shields.io/badge/OkHttp-0088CC?style=for-the-badge&logo=android&logoColor=white)
+![Ktor](https://img.shields.io/badge/Ktor-087CFA?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Gson](https://img.shields.io/badge/Gson-FF6F00?style=for-the-badge&logo=json&logoColor=white)
+![Moshi](https://img.shields.io/badge/Moshi-FF6F00?style=for-the-badge&logo=json&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
@@ -74,14 +78,49 @@ class AndroidDeveloper {
 ### Dependency Injection & Async
 ![Hilt](https://img.shields.io/badge/Hilt-FF6F00?style=for-the-badge&logo=android&logoColor=white)
 ![Dagger](https://img.shields.io/badge/Dagger-FF6F00?style=for-the-badge&logo=android&logoColor=white)
+![Koin](https://img.shields.io/badge/Koin-FF6F00?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Coroutines](https://img.shields.io/badge/Coroutines-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Flow](https://img.shields.io/badge/Flow-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![RxJava](https://img.shields.io/badge/RxJava-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
+
+### Android Services & Background Tasks
+![AlarmManager](https://img.shields.io/badge/AlarmManager-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![JobScheduler](https://img.shields.io/badge/JobScheduler-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Services](https://img.shields.io/badge/Services-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![BroadcastReceiver](https://img.shields.io/badge/BroadcastReceiver-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Notifications](https://img.shields.io/badge/Notifications-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+### Media & UI Components
+![ExoPlayer](https://img.shields.io/badge/ExoPlayer-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
+![CameraX](https://img.shields.io/badge/CameraX-4285F4?style=for-the-badge&logo=android&logoColor=white)
+![Glide](https://img.shields.io/badge/Glide-00C853?style=for-the-badge&logo=android&logoColor=white)
+![Coil](https://img.shields.io/badge/Coil-00C853?style=for-the-badge&logo=kotlin&logoColor=white)
+![RecyclerView](https://img.shields.io/badge/RecyclerView-4285F4?style=for-the-badge&logo=android&logoColor=white)
+![ViewBinding](https://img.shields.io/badge/ViewBinding-4285F4?style=for-the-badge&logo=android&logoColor=white)
+![DataBinding](https://img.shields.io/badge/DataBinding-4285F4?style=for-the-badge&logo=android&logoColor=white)
+
+### Location & Maps
+![Google Maps](https://img.shields.io/badge/Google%20Maps-4285F4?style=for-the-badge&logo=google-maps&logoColor=white)
+![Location Services](https://img.shields.io/badge/Location%20Services-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Geofencing](https://img.shields.io/badge/Geofencing-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+### Testing & Debugging
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-C5D9C8?style=for-the-badge&logo=mockito&logoColor=white)
+![Espresso](https://img.shields.io/badge/Espresso-4285F4?style=for-the-badge&logo=android&logoColor=white)
+![LeakCanary](https://img.shields.io/badge/LeakCanary-FF6F00?style=for-the-badge&logo=android&logoColor=white)
 
 ### Tools & Version Control
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
 ![ADB](https://img.shields.io/badge/ADB-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Android Debug Bridge](https://img.shields.io/badge/Android%20Debug%20Bridge-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+### Security & Storage
+![Keystore](https://img.shields.io/badge/Keystore-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Encrypted SharedPreferences](https://img.shields.io/badge/Encrypted%20SharedPreferences-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Biometric Authentication](https://img.shields.io/badge/Biometric%20Auth-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 ### Design & UI Tools
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
@@ -146,12 +185,18 @@ class AndroidDeveloper {
 - 📱 **Modern Android Development** with Kotlin and Jetpack Compose
 - 🏗️ **Clean Architecture** implementation for maintainable codebases
 - 🎨 **UI/UX Focus** with Material Design principles and Jetpack Compose
-- 🔄 **RESTful APIs Integration** using Retrofit, OkHttp, and Coroutines
-- 💾 **Local Database Management** with Room and SQLite
-- 🔥 **Firebase Integration** for backend services
-- 💉 **Dependency Injection** with Hilt/Dagger for scalable apps
-- 🔀 **Reactive Programming** using Kotlin Flow and Coroutines
-- 🧪 **Version Control** proficiency with Git and GitHub
+- 🔄 **RESTful APIs Integration** using Retrofit, OkHttp, Ktor and Coroutines
+- 💾 **Local Database Management** with Room, SQLite, and Realm
+- 🔥 **Firebase Integration** for backend services and real-time features
+- 💉 **Dependency Injection** with Hilt/Dagger/Koin for scalable apps
+- 🔀 **Reactive Programming** using Kotlin Flow, Coroutines, and RxJava
+- ⏰ **Background Task Management** with WorkManager, AlarmManager, and Services
+- 📸 **Media Handling** with CameraX, ExoPlayer, and image loading libraries
+- 🗺️ **Location Services** integration with Google Maps and Geofencing
+- 🔒 **Security Implementation** with Biometric Auth and Encrypted Storage
+- 🧪 **Testing & Quality Assurance** with JUnit, Mockito, and Espresso
+- 🚀 **Performance Optimization** and memory leak prevention
+- 🔧 **Version Control** proficiency with Git and GitHub
 
 ---
 
