@@ -51,6 +51,13 @@ class AndroidDeveloper {
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
 ![Material Design](https://img.shields.io/badge/Material%20Design-757575?style=for-the-badge&logo=material-design&logoColor=white)
 
+### Jetpack Components
+![Navigation](https://img.shields.io/badge/Navigation-4285F4?style=for-the-badge&logo=android&logoColor=white)
+![ViewModel](https://img.shields.io/badge/ViewModel-4285F4?style=for-the-badge&logo=android&logoColor=white)
+![LiveData](https://img.shields.io/badge/LiveData-4285F4?style=for-the-badge&logo=android&logoColor=white)
+![DataStore](https://img.shields.io/badge/DataStore-4285F4?style=for-the-badge&logo=android&logoColor=white)
+![WorkManager](https://img.shields.io/badge/WorkManager-4285F4?style=for-the-badge&logo=android&logoColor=white)
+
 ### Backend & Database
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -58,16 +65,25 @@ class AndroidDeveloper {
 
 ### Networking & APIs
 ![Retrofit](https://img.shields.io/badge/Retrofit-48B983?style=for-the-badge&logo=square&logoColor=white)
+![OkHttp](https://img.shields.io/badge/OkHttp-0088CC?style=for-the-badge&logo=android&logoColor=white)
+![Gson](https://img.shields.io/badge/Gson-FF6F00?style=for-the-badge&logo=json&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+
+### Dependency Injection & Async
+![Hilt](https://img.shields.io/badge/Hilt-FF6F00?style=for-the-badge&logo=android&logoColor=white)
+![Dagger](https://img.shields.io/badge/Dagger-FF6F00?style=for-the-badge&logo=android&logoColor=white)
+![Coroutines](https://img.shields.io/badge/Coroutines-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Flow](https://img.shields.io/badge/Flow-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ### Tools & Version Control
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
+![ADB](https://img.shields.io/badge/ADB-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-### Design Tools
+### Design & UI Tools
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 
@@ -129,10 +145,12 @@ class AndroidDeveloper {
 
 - 📱 **Modern Android Development** with Kotlin and Jetpack Compose
 - 🏗️ **Clean Architecture** implementation for maintainable codebases
-- 🎨 **UI/UX Focus** with Material Design principles
-- 🔄 **RESTful APIs Integration** using Retrofit and Coroutines
+- 🎨 **UI/UX Focus** with Material Design principles and Jetpack Compose
+- 🔄 **RESTful APIs Integration** using Retrofit, OkHttp, and Coroutines
 - 💾 **Local Database Management** with Room and SQLite
 - 🔥 **Firebase Integration** for backend services
+- 💉 **Dependency Injection** with Hilt/Dagger for scalable apps
+- 🔀 **Reactive Programming** using Kotlin Flow and Coroutines
 - 🧪 **Version Control** proficiency with Git and GitHub
 
 ---
