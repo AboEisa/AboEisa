@@ -129,7 +129,7 @@ class AndroidDeveloper {
 ## 💼 Featured Projects
 
 ### 🏥 Hospital Management System
-**[HospitalApp](https://github. com/AboEisa/HospitalApp)** • `Kotlin` `MVVM` `Firebase` `Material Design`
+**[HospitalApp](https://github. com/AboEisa/HospitalApp)** • `Kotlin` `XML` `MVVM` `Firebase` `Material Design`
 
 A comprehensive hospital management application for efficient healthcare operations.  Features include appointment scheduling, patient records management, and real-time updates.
 
@@ -144,9 +144,9 @@ A comprehensive hospital management application for efficient healthcare operati
 ---
 
 ### 🛍️ ShopSphere - E-Commerce Platform
-**[ShopSphere](https://github. com/AboEisa/ShopSphere)** • `Kotlin` `Jetpack Compose` `Clean Architecture` `RESTful API`
+**[ShopSphere](https://github. com/AboEisa/ShopSphere)** • `Kotlin` `XML` `Clean Architecture` `RESTful API`
 
-Modern e-commerce Android application with a focus on user experience and performance. Built with Jetpack Compose and following clean architecture principles.
+Modern e-commerce Android application with a focus on user experience and performance. Built with XML and following clean architecture principles.
 
 **Key Features:**
 - 🛒 Product catalog with advanced filtering and search
@@ -160,7 +160,7 @@ Modern e-commerce Android application with a focus on user experience and perfor
 ---
 
 ### 🎬 Movie Discovery App
-**[MovieApp](https://github.com/AboEisa/MovieApp)** • `Kotlin` `TMDB API` `Paging 3` `Material Design`
+**[MovieApp](https://github.com/AboEisa/MovieApp)** • `Kotlin` `XML` `TMDB API` `Paging 3` `Material Design`
 
 Discover trending movies and TV shows with detailed information, trailers, and personalized recommendations powered by The Movie Database (TMDB) API.
 
@@ -176,7 +176,7 @@ Discover trending movies and TV shows with detailed information, trailers, and p
 ---
 
 ### 💬 Real-Time Chat Application
-**[ChatApp](https://github.com/AboEisa/ChatApp)** • `Kotlin` `Firebase Realtime Database` `FCM`
+**[ChatApp](https://github.com/AboEisa/ChatApp)** • `Kotlin` `XML` `Firebase Realtime Database` `FCM`
 
 Feature-rich messaging application with real-time communication capabilities, supporting text messages, media sharing, and push notifications.
 
@@ -192,7 +192,7 @@ Feature-rich messaging application with real-time communication capabilities, su
 ---
 
 ### 📝 Zakrni - Note Taking App
-**[Zakrni](https://github.com/AboEisa/Zakrni)** • `Kotlin` `Room` `MVVM` `Material Design`
+**[Zakrni](https://github.com/AboEisa/Zakrni)** • `Kotlin` `XML` `Room` `MVVM` `Material Design`
 
 Elegant and intuitive note-taking application with offline-first architecture. Organize your thoughts with categories, tags, and powerful search capabilities.
 
@@ -208,7 +208,7 @@ Elegant and intuitive note-taking application with offline-first architecture. O
 ---
 
 ### 🛒 E-Commerce Mobile Solution
-**[e-Commerce](https://github.com/AboEisa/e-Commerce)** • `Kotlin` `REST API` `Firebase`
+**[e-Commerce](https://github.com/AboEisa/e-Commerce)** • `Kotlin` `Jetback Compose` `REST API` `Firebase`
 
 Full-featured e-commerce application with complete shopping experience including product browsing, cart management, and order processing.
 
@@ -224,7 +224,7 @@ Full-featured e-commerce application with complete shopping experience including
 ---
 
 ### 🔐 Firebase Authentication Demo
-**[FirebaseAuth](https://github.com/AboEisa/FirebaseAuth)** • `Kotlin` `Firebase Auth` `Biometric`
+**[FirebaseAuth](https://github.com/AboEisa/FirebaseAuth)** • `Kotlin` `XML` `Firebase Auth` `Biometric`
 
 Comprehensive authentication implementation showcasing various Firebase authentication methods and security best practices.
 
