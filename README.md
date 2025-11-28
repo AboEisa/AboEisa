@@ -30,7 +30,7 @@ class AndroidDeveloper {
 ```
 
 💻 Passionate about creating seamless Android experiences  
-🌱 Currently exploring Kotlin Multiplatform & Compose Multiplatform  
+🌱 Currently exploring Kotlin Multiplatform & Jetpack Compose  
 🤝 Open to collaborating on innovative Android projects  
 💡 Focus on clean code and modern architecture patterns  
 ☕ Coffee-driven developer
@@ -89,12 +89,51 @@ class AndroidDeveloper {
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AboEisa&repo=YOUR_REPO_NAME&theme=tokyonight&hide_border=true)](https://github.com/AboEisa/YOUR_REPO_NAME)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AboEisa&repo=YOUR_REPO_NAME_2&theme=tokyonight&hide_border=true)](https://github.com/AboEisa/YOUR_REPO_NAME_2)
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">🏥 Hospital App</h3>
+<div align="center">  
+<a href="https://github.com/AboEisa/HospitalApp" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AboEisa&repo=HospitalApp&theme=tokyonight&hide_border=true" alt="Hospital App"/>
+</a>
+<p><strong>Kotlin, MVVM, Firebase</strong> - Healthcare management application with modern Android architecture</p>
+</div>
+</td>
+<td width="50%">
+<h3 align="center">🛍️ ShopSphere</h3>
+<div align="center">  
+<a href="https://github.com/AboEisa/ShopSphere" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AboEisa&repo=ShopSphere&theme=tokyonight&hide_border=true" alt="ShopSphere"/>
+</a>
+<p><strong>Kotlin, Jetpack Compose</strong> - Modern e-commerce platform with clean UI/UX</p>
+</div>
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+<h3 align="center">🎬 Movie App</h3>
+<div align="center">  
+<a href="https://github.com/AboEisa/MovieApp" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AboEisa&repo=MovieApp&theme=tokyonight&hide_border=true" alt="Movie App"/>
+</a>
+<p><strong>Kotlin, Retrofit, TMDB API</strong> - Discover and explore movies with rich details</p>
+</div>
+</td>
+<td width="50%">
+<h3 align="center">🛒 E-Commerce</h3>
+<div align="center">  
+<a href="https://github.com/AboEisa/e-Commerce" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AboEisa&repo=e-Commerce&theme=tokyonight&hide_border=true" alt="E-Commerce"/>
+</a>
+<p><strong>Kotlin, Room, Material Design</strong> - Full-featured shopping application</p>
+</div>
+</td>
+</tr>
+</table>
 
 </div>
-
-> 💡 **Tip:** Replace `YOUR_REPO_NAME` with your actual repository names to showcase your best work!
 
 ---
 
